@@ -10,7 +10,7 @@ __Alpha stage__
 * Tests
 * Convert Python to Lua
 
-*FROM ORIRIGINAL REPO*
+*FROM ORIGINAL REPO*
 
 ## Usage
 
