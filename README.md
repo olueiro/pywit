@@ -1,19 +1,16 @@
-# pywit
+# turbo-wit
 
-`pywit` is the Python SDK for [Wit.ai](http://wit.ai).
+`turbo-wit` is the Turbo.lua for [Wit.ai](http://wit.ai).
 
-## Install
+__Alpha stage__
 
-Using `pip`:
-```bash
-pip install wit
-```
+## TODO
 
-From source:
-```bash
-git clone https://github.com/wit-ai/pywit
-python setup.py install
-```
+* Interactive
+* Tests
+* Convert Python to Lua
+
+*FROM ORIRIGINAL REPO*
 
 ## Usage
 
